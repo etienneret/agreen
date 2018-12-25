@@ -1,0 +1,12 @@
+{
+  "name": "ciel_meteo",
+  "version": "0.1.0",
+  "dependencies": {
+    "body-parser": "~1.10.1",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  },
+  "author": "Etienne <etienne.retout@hec.edu>",
+  "description": "Scrap Ciel Meteo"
+}
